@@ -34,4 +34,4 @@ Teaching Assistant, Advanced Math B, 2024 fall at PKU\
 
 Publications
 ======
-- **Z. Fan**, Y.G. Ouyang(2024). Asymptotic behavior of exterior minimal graphs in half spaces. Submitted to **The Journal of Geometric Analysis**. 
+- **Z. Fan**, Y.G. Ouyang(2024). Asymptotic behavior of exterior minimal graphs in half spaces. Submitted to **The Journal of Geometric Analysis**. [paper](https://fanzheny.github.io/files/exterior_MSE.pdf)

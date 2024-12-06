@@ -9,11 +9,9 @@ redirect_from:
 
 I'm currently a PhD student at [School of Mathematical Sciences](https://www.math.pku.edu.cn/index.htm), [Peking University](https://www.pku.edu.cn). My advisors are [Prof. Qing Han](https://math.nd.edu/people/faculty/qing-han/) & Prof. Yuguang Shi. Before this, I obtained my Bachelor's degree in Mathematices at [Xi'an Jiaotong University](http://math.xjtu.edu.cn) under the supervision of [Prof. Dongsheng Li](http://gr.xjtu.edu.cn/web/lidsh).
 
-A data-driven personal website
+Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Nonlinear Partial Differential Equations and Geometric Analysis. Especially, minimal surfaces, the Monge-Ampère equation and other fully nonlinear equations.
 
 Getting started
 ======

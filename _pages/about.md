@@ -30,7 +30,7 @@ Teaching
 ------
 Teaching Assistant, Advanced Math C, 2023 fall at PKU\
 Teaching Assistant, Advanced Math B, 2023 spring at PKU\
-Teaching Assistant, Advanced Math B, 2024 fall at PKU\
+Teaching Assistant, Advanced Math B, 2024 fall at PKU
 
 Publications
 ======

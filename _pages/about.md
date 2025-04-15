@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a PhD student at [School of Mathematical Sciences](https://www.math.pku.edu.cn/index.htm), [Peking University](https://www.pku.edu.cn). My advisors are [Prof. Qing Han](https://math.nd.edu/people/faculty/qing-han/) & Prof. Yuguang Shi. Before this, I obtained my Bachelor's degree in Mathematices at [Xi'an Jiaotong University](http://math.xjtu.edu.cn) under the supervision of [Prof. Dongsheng Li](http://gr.xjtu.edu.cn/web/lidsh).
+I'm currently a PhD student at [School of Mathematical Sciences](https://www.math.pku.edu.cn/index.htm), [Peking University](https://www.pku.edu.cn). My advisors are Prof. [Qing Han](https://math.nd.edu/people/faculty/qing-han/), Prof. [Yuguang Shi](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/s_20180628175159671361/69954.htm) & Prof. [Yuan Yu](https://sites.math.washington.edu/~yuan/). Before this, I obtained my Bachelor's degree in Mathematices at [Xi'an Jiaotong University](http://math.xjtu.edu.cn) under the supervision of [Prof. Dongsheng Li](http://gr.xjtu.edu.cn/web/lidsh).
 
 Research Interests
 ======
 **Nonlinear Partial Differential Equations and Geometric Analysis** \
-Especially, minimal surfaces, the Monge-Ampère equation and other fully nonlinear equations.
+Especially, minimal surfaces, Monge-Ampère equations, special Lagrangian equations and other fully nonlinear equations.
 
 CV
 ======
@@ -34,4 +34,8 @@ Teaching Assistant, Advanced Math B, 2024 fall at PKU
 
 Publications
 ======
-- **Z. Fan**, Y.G. Ouyang(2024). Asymptotic behavior of exterior minimal graphs in half spaces. Submitted to **The Journal of Geometric Analysis**. [paper](https://fanzymath.github.io/files/exterior_MSE.pdf)
+- **Z. Fan**. Compactness approach to Hessian estimates for special Lagrangian equations with constraints. In preparation.
+
+- Y.C. Bi, **Z. Fan**, G.S. Jiang, J. T. Zhu. Liouville Theorems for the minimal surface equation outside an infinite cylinder. In preparation.
+
+- **Z. Fan**, Y.G. Ouyang(2024). Asymptotic behavior of exterior minimal graphs in half spaces. Submitt to **The Journal of Geometric Analysis**. [paper](https://fanzymath.github.io/files/exterior_MSE.pdf)

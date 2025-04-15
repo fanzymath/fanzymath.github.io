@@ -29,7 +29,7 @@ Educdtion
 Teaching
 ------
 [Lecture Notes](https://fanzymath.github.io/notes/)\
-Teaching Assistant, Advanced Math B, 2025 at PKU\
+Teaching Assistant, Advanced Math B, 2025 spring at PKU\
 Teaching Assistant, Advanced Math B, 2024 fall at PKU\
 Teaching Assistant, Advanced Math B, 2023 spring at PKU\
 Teaching Assistant, Advanced Math C, 2023 fall at PKU

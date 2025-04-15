@@ -16,7 +16,7 @@ Especially, minimal surfaces, the Monge-Ampère equation and other fully nonline
 
 CV
 ======
-Here is my [CV](https://fanzheny.github.io/files/CV.pdf) (English Version)
+Here is my [CV](https://fanzymath.github.io/files/CV.pdf) (English Version)
 
 
 Educdtion
@@ -34,4 +34,4 @@ Teaching Assistant, Advanced Math B, 2024 fall at PKU
 
 Publications
 ======
-- **Z. Fan**, Y.G. Ouyang(2024). Asymptotic behavior of exterior minimal graphs in half spaces. Submitted to **The Journal of Geometric Analysis**. [paper](https://fanzheny.github.io/files/exterior_MSE.pdf)
+- **Z. Fan**, Y.G. Ouyang(2024). Asymptotic behavior of exterior minimal graphs in half spaces. Submitted to **The Journal of Geometric Analysis**. [paper](https://fanzymath.github.io/files/exterior_MSE.pdf)

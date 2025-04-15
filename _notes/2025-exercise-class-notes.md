@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "高数习题课"
 collection: notes
 type: "Lecture notes"

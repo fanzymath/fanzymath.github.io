@@ -7,9 +7,8 @@ venue: "Peking University"
 location: "Beijing"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+2025春季学期高数B习题课
 
-4.22 数项级数
-======
-
+4/22 数项级数
+------
 

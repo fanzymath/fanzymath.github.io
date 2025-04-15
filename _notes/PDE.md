@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Notes in Fully Nonlinear Elliptic PDEs"
 collection: notes
 type: "Lecture notes"

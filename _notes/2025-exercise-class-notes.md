@@ -1,9 +1,8 @@
 ---
-layout: archive
 title: "高数习题课"
 collection: notes
 type: "Lecture notes"
-permalink: /notes/exercise-class-notes
+permalink: /notes/2025-exercise-class-notes
 venue: "Peking University"
 location: "Beijing"
 ---

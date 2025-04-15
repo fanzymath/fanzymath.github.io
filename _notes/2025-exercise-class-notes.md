@@ -10,6 +10,6 @@ location: "Beijing"
 
 2025春季学期高数B习题课
 
-## 4/22 数项级数[pdf](https://fanzymath.github.io/files/series.pdf) 
+### 4/22 数项级数[pdf](https://fanzymath.github.io/files/series.pdf) 
 
 

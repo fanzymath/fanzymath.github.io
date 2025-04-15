@@ -4,7 +4,6 @@ collection: notes
 type: "Lecture notes"
 permalink: /notes/exercise-class-notes
 venue: "Peking University"
-date: 2025
 location: "Beijing"
 ---
 

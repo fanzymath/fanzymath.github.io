@@ -1,9 +1,11 @@
 ---
 title: "高数习题课"
 collection: notes
-type: "25 Spring"
+type: "Lecture notes"
 permalink: /notes/exercise-class-notes
 venue: "Peking University"
+date: 2025
+location: "Beijing"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

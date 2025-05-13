@@ -39,7 +39,9 @@ Teaching Assistant, Advanced Math C, 2023 fall at PKU
 
 Publications
 ======
-- **Z. Fan**. Compactness approach to Hessian estimates for special Lagrangian equations with constraints. In preparation.
+- **Z. Fan**. Hessian estimates for semi-convex solutions to the sigma-2 equation with variable right hand side. In preparation.
+
+- **Z. Fan**. Rigidity and regularity results for solutions to special Lagrangian equations with constraints. In preparation.
 
 - Y.C. Bi, **Z. Fan**, G.S. Jiang, J. T. Zhu. Liouville Theorems for the minimal surface equation outside an infinite cylinder. In preparation.
 

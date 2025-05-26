@@ -37,7 +37,7 @@ Teaching Assistant, Advanced Math C, 2023 fall at PKU
 
 
 
-Publications
+Preprints & Publications
 ======
 - **Z. Fan**. Hessian estimates for semi-convex solutions to the sigma-2 equation with variable right hand side. In preparation.
 

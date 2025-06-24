@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: "Fan Zhenyu's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+About me
+======
 I'm currently a PhD student at [School of Mathematical Sciences](https://www.math.pku.edu.cn/index.htm), [Peking University](https://www.pku.edu.cn). My advisors are Prof. [Qing Han](https://math.nd.edu/people/faculty/qing-han/), Prof. [Yuguang Shi](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/s_20180628175159671361/69954.htm) & Prof. [Yu Yuan](https://sites.math.washington.edu/~yuan/). Before this, I obtained my Bachelor's degree in Mathematices at [Xi'an Jiaotong University](http://math.xjtu.edu.cn) under the supervision of [Prof. Dongsheng Li](http://gr.xjtu.edu.cn/web/lidsh).
 
 Research Interests

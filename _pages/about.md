@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fan Zhenyu's Homepage"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -40,10 +40,10 @@ Teaching Assistant, Advanced Math C, 2023 fall at PKU
 
 Preprints and Publications
 ======
-- **Z. Fan**. Hessian estimates for semi-convex solutions to the sigma-2 equation with variable right hand side. In preparation.
+- **Z. Fan**. Regularity for semi-convex solutions to special Lagrangian equations. In preparation.
 
-- **Z. Fan**. Rigidity and regularity results for solutions to special Lagrangian equations with constraints. In preparation.
+- **Z. Fan**. Hessian estimates for semi-convex solutions to the sigma-2 equation with variable right hand side. In preparation.
 
 - Y.C. Bi, **Z. Fan**, G.S. Jiang, J. T. Zhu. Liouville Theorems for the minimal surface equation outside an infinite cylinder. In preparation.
 
-- **Z. Fan**, Y.G. Ouyang(2024). Asymptotic behavior of exterior minimal graphs in half spaces. Submitted. [paper](https://fanzymath.github.io/files/exterior_MSE.pdf)
+- **Z. Fan**, Y.G. Ouyang(2024). Asymptotic behavior of exterior minimal graphs in half spaces. Accepted by **J. Grom. Anal.**. [paper](https://fanzymath.github.io/files/exterior_MSE.pdf)

@@ -46,4 +46,4 @@ Preprints and Publications
 
 - Y.C. Bi, **Z. Fan**, G.S. Jiang, J. T. Zhu. Liouville Theorems for the minimal surface equation outside an infinite cylinder. In preparation.
 
-- **Z. Fan**, Y.G. Ouyang. Asymptotic behavior of exterior minimal graphs in half spaces. Accepted by **J Geom Anal** 35, 247 (2025) [paper](https://fanzymath.github.io/files/Exterior_Minimal_Graph_25.pdf)
+- **Z. Fan**, Y.G. Ouyang. Asymptotic behavior of exterior minimal graphs in half spaces. **J Geom. Anal.** 35, 247 (2025) [paper](https://fanzymath.github.io/files/Exterior_Minimal_Graph_25.pdf)

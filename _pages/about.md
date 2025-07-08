@@ -42,6 +42,8 @@ Preprints and Publications
 ======
 - **Z. Fan**. Regularity for semi-convex solutions to special Lagrangian equations. In preparation.
 
+- **Z. Fan**. An extension of Savin's small perturbation theorem for fully nonlinear elliptic equations and applications. In preparation.
+
 - **Z. Fan**. Hessian estimates for semi-convex solutions to the sigma-2 equation with variable right hand side. In preparation.
 
 - Y.C. Bi, **Z. Fan**, G.S. Jiang, J. T. Zhu. Liouville Theorems for the minimal surface equation outside an infinite cylinder. In preparation.

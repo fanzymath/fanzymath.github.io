@@ -44,8 +44,6 @@ Preprints and Publications
 
 - **Z. Fan**. An extension of Savin's small perturbation theorem for fully nonlinear elliptic equations and applications. In preparation.
 
-- **Z. Fan**. Hessian estimates for semi-convex solutions to the sigma-2 equation with variable right hand side. In preparation.
-
-- Y.C. Bi, **Z. Fan**, G.S. Jiang, J. T. Zhu. Liouville Theorems for the minimal surface equation outside an infinite cylinder. In preparation.
+- **Z. Fan**. Doubling approach to Hessian estimates for the sigma-2 equation with variable right hand side in dimension 4. In preparation.
 
 - **Z. Fan**, Y.G. Ouyang. Asymptotic behavior of exterior minimal graphs in half spaces. **J Geom. Anal.** 35, 247 (2025) [paper](https://fanzymath.github.io/files/Exterior_Minimal_Graph_25.pdf)

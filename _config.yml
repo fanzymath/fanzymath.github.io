@@ -19,7 +19,7 @@ url                      : https://fanzymath.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photof.jpg"
+  avatar           : "fzyphoto.png"
   name             : "Fan Zhenyu(范振宇)"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in math"

@@ -40,7 +40,7 @@ Teaching Assistant, Advanced Math C, 2023 fall at PKU
 
 Preprints and Publications
 ======
-- **Z. Fan**. Hessian estimates for the sigma-2 equation with variable right hand side terms in dimension 4. In preparation.
+- **Z. Fan**. Hessian estimates for the sigma-2 equation with variable right hand side terms in dimension 4. [arXiv](https://doi.org/10.48550/arXiv.2509.03217)
 
 - **Z. Fan**. A generalization of Savin's small perturbation theorem for fully nonlinear elliptic equations and applications. [arXiv](https://doi.org/10.48550/arXiv.2509.01138)
 

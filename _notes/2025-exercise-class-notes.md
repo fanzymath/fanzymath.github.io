@@ -17,6 +17,7 @@ location: "Beijing"
 ### 5/13 幂级数和Taylor级数 [pdf](https://fanzymath.github.io/files/power_series.pdf) 
 ### 5/20 广义积分和含参变量的正常积分 [pdf](https://fanzymath.github.io/files/Infinite_Integral.pdf) 
 ### 5/27 含参变量的广义积分 [pdf](https://fanzymath.github.io/files/Infinite_Integral_with_parameters.pdf) 
+### 6/3  Fourier级数 [pdf](https://fanzymath.github.io/files/6_3_Fourier_Series.pdf)
 
 
 2025秋季学期 高数A习题课

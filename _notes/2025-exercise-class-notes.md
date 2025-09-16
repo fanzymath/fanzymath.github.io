@@ -8,8 +8,7 @@ venue: "Peking University"
 location: "Beijing"
 ---
 
----
-2025春季学期 高数B习题课
+## 2025春季学期 高数B习题课
 ---
 
 ### 4/22 数项级数 [pdf](https://fanzymath.github.io/files/series.pdf) 
@@ -20,7 +19,7 @@ location: "Beijing"
 ### 6/3  Fourier级数 [pdf](https://fanzymath.github.io/files/6_3_Fourier_Series.pdf)
 
 
-2025秋季学期 高数A习题课
+## 2025秋季学期 高数A习题课
 ---
 
 ### 9/17 数列极限 [pdf](https://fanzymath.github.io/files/9_17_limit_of_sequence.pdf)

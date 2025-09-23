@@ -10,3 +10,4 @@ location: "Beijing"
 
 
 ### 9/17 数列极限 [pdf](https://fanzymath.github.io/files/9_17_limit_of_sequence.pdf)
+### 9/24 函数极限和连续性 [pdf](https://fanzymath.github.io/files/9_24_Continuity.pdf)

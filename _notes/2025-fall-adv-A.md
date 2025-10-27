@@ -13,3 +13,4 @@ location: "Beijing"
 ### 9/24 函数极限和连续性 [pdf](https://fanzymath.github.io/files/9_24_Continuity.pdf)
 ### 10/15 导数 [pdf](https://fanzymath.github.io/files/10_15_derivatives.pdf)
 ### 10/22 不定积分和定积分-1 [pdf](https://fanzymath.github.io/files/10_22_Integral.pdf)
+### 10/29 不定积分和定积分-2 [pdf](https://fanzymath.github.io/files/10_29_Integral_2.pdf)

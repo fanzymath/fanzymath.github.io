@@ -15,3 +15,4 @@ location: "Beijing"
 ### 10/22 不定积分和定积分-1 [pdf](https://fanzymath.github.io/files/10_22_Integral.pdf)
 ### 10/29 不定积分和定积分-2 [pdf](https://fanzymath.github.io/files/10_29_Integral_2.pdf)
 ### 11/12 中值定理和Taylor展开-1 [pdf](https://fanzymath.github.io/files/11_12_mean_value_thm_and_Taylor_expansion.pdf)
+### 11/19 中值定理和Taylor展开-2 [pdf](https://fanzymath.github.io/files/11_19_mean_value_thm_and_Taylor_expansion_2.pdf)

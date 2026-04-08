@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "2025春 高数B习题课"
+title: "高数下习题课"
 collection: notes
 type: "Lecture notes"
 permalink: /notes/2025-exercise-class-notes

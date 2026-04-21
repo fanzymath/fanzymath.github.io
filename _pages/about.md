@@ -40,8 +40,8 @@ Teaching Assistant, Advanced Math C, 2023 fall at PKU
 
 Preprints and Publications
 ======
-- **Z. Fan**. Hessian estimates for the sigma-2 equation with variable right hand side terms in dimension 4. Accepted by **Adv. in Math.** [arXiv](https://doi.org/10.48550/arXiv.2509.03217)
+- **Z. Fan**. [Hessian estimates for the sigma-2 equation with variable right hand side terms in dimension 4](https://doi.org/10.1016/j.aim.2026.110953). **Adv. in Math.** Volume 494 (2026)  [paper](https://doi.org/10.1016/j.aim.2026.110953)
 
-- **Z. Fan**. A generalization of Savin's small perturbation theorem for fully nonlinear elliptic equations and applications. [arXiv](https://doi.org/10.48550/arXiv.2509.01138)
+- **Z. Fan**. [A generalization of Savin's small perturbation theorem for fully nonlinear elliptic equations and applications](https://doi.org/10.48550/arXiv.2509.01138). Accepted by **Calc. Var. Partial Diff. Equ.** [arXiv](https://doi.org/10.48550/arXiv.2509.01138)
 
-- **Z. Fan**, Y.G. Ouyang. Asymptotic behavior of exterior minimal graphs in half spaces. **J Geom. Anal.** 35, 247 (2025) [paper](https://doi.org/10.1007/s12220-025-02087-0)
+- **Z. Fan**, Y.G. Ouyang. [Asymptotic behavior of exterior minimal graphs in half spaces](https://doi.org/10.1007/s12220-025-02087-0). **J Geom. Anal.** 35, 247 (2025) [paper](https://doi.org/10.1007/s12220-025-02087-0)

@@ -17,7 +17,7 @@ Especially, minimal surfaces, Monge-Ampère equations, special Lagrangian equati
 
 CV
 ======
-Here is my [CV](https://fanzymath.github.io/files/CV.pdf) (English Version)
+Here is my [CV](https://fanzymath.github.io/files/CV.pdf) (June 2026)
 
 
 Educdtion
@@ -30,16 +30,20 @@ Educdtion
 Teaching
 ------
 [Lecture Notes](https://fanzymath.github.io/notes/)\
-Teaching Assistant, Advanced Math B, 2025 spring at PKU\
-Teaching Assistant, Advanced Math B, 2024 fall at PKU\
-Teaching Assistant, Advanced Math B, 2023 spring at PKU\
-Teaching Assistant, Advanced Math C, 2023 fall at PKU
+Teaching Assistant, Advanced Math A, 2026 Spring at PKU\
+Teaching Assistant, Advanced Math A, 2025 Fall at PKU\
+Teaching Assistant, Advanced Math B, 2025 Spring at PKU\
+Teaching Assistant, Advanced Math B, 2024 Fall at PKU\
+Teaching Assistant, Advanced Math B, 2023 Spring at PKU\
+Teaching Assistant, Advanced Math C, 2023 Fall at PKU
 
 
 
 
 Preprints and Publications
 ======
+- **Z. Fan**, R. Shankar. Interior estimates and regularity for the scalar curvature equation in dimension 4. In preparation
+
 - **Z. Fan**. [Hessian estimates for the sigma-2 equation with variable right hand side terms in dimension 4](https://doi.org/10.1016/j.aim.2026.110953). **Adv. Math.** Volume 494 (2026)
 
 - **Z. Fan**. [A generalization of Savin's small perturbation theorem for fully nonlinear elliptic equations and applications](https://doi.org/10.1007/s00526-026-03349-7). **Calc. Var. Partial Diff. Equ.** 65, 182 (2026)

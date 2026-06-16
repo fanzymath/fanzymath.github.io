@@ -18,7 +18,7 @@ location: "Beijing"
 ###  幂级数和Taylor级数 [pdf](https://fanzymath.github.io/files/power_series.pdf) 
 ###  广义积分和含参变量的正常积分 [pdf](https://fanzymath.github.io/files/Infinite_Integral.pdf) 
 ###  含参变量的广义积分 [pdf](https://fanzymath.github.io/files/Infinite_Integral_with_parameters.pdf) 
-###  Fourier级数 [pdf](https://fanzymath.github.io/files/6_3_Fourier_Series.pdf)
+###  Fourier级数 [pdf](https://fanzymath.github.io/files/6_3_Fourier.pdf)
 
 
 

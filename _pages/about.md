@@ -17,7 +17,7 @@ Especially, minimal surfaces, Monge-Ampère equations, special Lagrangian equati
 
 CV
 ======
-Here is my [CV](https://fanzymath.github.io/files/CV.pdf) (June 2026)
+Here is my [CV](https://fanzymath.github.io/files/CV.pdf) (Sep 2026)
 
 
 Educdtion
@@ -42,7 +42,12 @@ Teaching Assistant, Advanced Math C, 2023 Fall at PKU
 
 Preprints and Publications
 ======
-- **Z. Fan**, R. Shankar. Interior estimates and regularity for the scalar curvature equation in dimension 4. In preparation
+
+- **Z.Fan**. Geometric regularity for semi-convex viscosity solutions to the special Lagrangian equation. In preparation
+
+- **Z.Fan**, C. Li, Z. Wang. [Failure of interior Hölder and gradient estimates for the subcritical special Lagrangian equation](https://doi.org/10.48550/arXiv.2609.01531). Preprint, arXiv:2609.01531
+
+- **Z. Fan**, R. Shankar. [Interior estimates and regularity for the scalar curvature equation in dimension 4](https://doi.org/10.48550/arXiv.2608.22748). Preprint, arXiv:2608.22748
 
 - **Z. Fan**. [Hessian estimates for the sigma-2 equation with variable right hand side terms in dimension 4](https://doi.org/10.1016/j.aim.2026.110953). **Adv. Math.** Volume 494 (2026)
 

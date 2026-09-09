@@ -43,7 +43,7 @@ Teaching Assistant, Advanced Math C, 2023 Fall at PKU
 Preprints and Publications
 ======
 
-- **Z.Fan**. Geometric regularity for semi-convex viscosity solutions to the special Lagrangian equation. In preparation
+- **Z.Fan**. [Geometric regularity for semi-convex viscosity solutions to the special Lagrangian equation](https://doi.org/10.48550/arXiv.2609.07458). Preprint, arXiv:2609.07458
 
 - **Z.Fan**, C. Li, Z. Wang. [Failure of interior Hölder and gradient estimates for the subcritical special Lagrangian equation](https://doi.org/10.48550/arXiv.2609.01531). Preprint, arXiv:2609.01531
 

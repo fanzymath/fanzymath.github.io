@@ -9,11 +9,11 @@ location: "Beijing"
 ---
 
 
-### 数列极限 [pdf](https://fanzymath.github.io/files/9_17_limit_of_sequence.pdf)
-### 函数极限和连续性 [pdf](https://fanzymath.github.io/files/9_24_Continuity.pdf)
-### 导数 [pdf](https://fanzymath.github.io/files/10_15_derivatives.pdf)
-### 不定积分和定积分-1 [pdf](https://fanzymath.github.io/files/10_22_Integral.pdf)
-### 不定积分和定积分-2 [pdf](https://fanzymath.github.io/files/10_29_Integral_2.pdf)
+### 数列极限 [pdf](https://fanzymath.github.io/files/limit_of_sequence.pdf)
+### 函数极限和连续性 [pdf](https://fanzymath.github.io/files/Continuity.pdf)
+### 导数 [pdf](https://fanzymath.github.io/files/Derivatives.pdf)
+### 不定积分和定积分-1 [pdf](https://fanzymath.github.io/files/Integral.pdf)
+### 不定积分和定积分-2 [pdf](https://fanzymath.github.io/files/Integral_2.pdf)
 ### 中值定理和Taylor展开-1 [pdf](https://fanzymath.github.io/files/11_12_mean_value_thm_and_Taylor_expansion.pdf)
 ### 中值定理和Taylor展开-2 [pdf](https://fanzymath.github.io/files/11_19_mean_value_thm_and_Taylor_expansion_2.pdf)
 ### 解析几何 [pdf](https://fanzymath.github.io/files/11_26_analytic_geometry.pdf)
